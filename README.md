@@ -8,11 +8,12 @@
 ---
 
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=kotlin,spring,java,android,git,github" />
 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 ---
 
 ### 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnalsdn100&layout=compact&theme=tokyonight)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnalsdn10)](https://solved.ac/rnalsdn10)
